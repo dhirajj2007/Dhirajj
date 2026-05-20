@@ -17,7 +17,3 @@ Building projects and improving daily.
 ---
 
 > "Create. Learn. Repeat."
->
-> node_modules/
-.env
-.DS_Store
